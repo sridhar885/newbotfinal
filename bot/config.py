@@ -2,7 +2,7 @@ class config:
     BOT_TOKEN = "5499480279:AAFW_4_n5Ohnvgwv-uvmAN22wiGpseYbCe4"
     APP_ID = "19220133"
     API_HASH = "df11ebf82e2fb0d0465c2f903ec67e66"
-    DATABASE_URL = "postgres://cmivfmmt:8gMBAzJJSaLF7BXnBSXsEFMKtsIouPfI@jelani.db.elephantsql.com/cmivfmmt"
+    DATABASE_URL = "postgresql://cmivfmmt:8gMBAzJJSaLF7BXnBSXsEFMKtsIouPfI@jelani.db.elephantsql.com/cmivfmmt"
     SUDO_USERS = "5590144619" # Sepearted by space.
     SUPPORT_CHAT_LINK = ""
     DOWNLOAD_DIRECTORY = "./downloads/"
